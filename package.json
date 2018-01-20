@@ -1,0 +1,16 @@
+{
+  "name": "mqtt-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.2",
+    "cron": "^1.3.0",
+    "mqtt": "^2.15.1"
+  }
+}
